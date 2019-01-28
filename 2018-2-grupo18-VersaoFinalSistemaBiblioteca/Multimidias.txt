@@ -1,0 +1,33 @@
+O Poderoso Chefao/Francis Ford Coppola/Paramount/Filme/
+O Senhor dos Aneis/Peter Jackson/Warner Bros/Filme/
+Forrest Gump/Robert Zemeckis/Paramount/Filme/
+De Volta Para o Futuro/Robert Zemeckis/Universal Pictures/Filme/
+A Viagem de Chihiro/Hayao Miyazaki/Europa Filmes/Filme/
+A Procura da Felicidade/Gabriele Muccino/Columbia Pictures/Filme/
+Interestelar/Christopher Nolan/Warner Bros/Filme/
+Sociedade dos Poetas Mortos/Peter Weir/Disney/Filme/
+O Menino do Pijama Listraddo/Mark Herman/Imagem Filmes/Filme/
+A Teoria de Tudo/James Marsh/Universal Pictures/Filme/
+Quebrando o Tabu/Fernando Grostein Andrade/Spray Filmes/Documentario/
+Senna/Asif Kapadia/Universal Pictures/Documentario/
+Cosmos/Ann Druyan/Cosmos Studios/Documentario/
+SiCKO/Michael Moore/The Weinstein Company/Documentario/
+Lixo Extraordinario/Lucy Walker/Downtown Filmes/Documentario/
+Uma Verdade Inconveniente/Davis Guggenheim/Participant Media/Documentario/
+Ilha das Flores/Jorge Furtado/Casa de Cinema de Porto Alegre/Documentario/
+Sabotage O Mestre do Canao/Ivan 13P/13 Producoes/Documentario/
+Tiros em Columbine/Michael Moore/Michael Moore/Documentario/
+Basquete Blues/Steve James/Kartemquin Films/Documentario/
+Game of Thrones/David Benioff/HBO/Serie/
+Breaking Bad/Vince Gilligan/Sony Pictures/Serie/
+Friends/David Crane/NBC/Serie/
+Prison Break/Paul Scheuring/20th Television/Serie/
+The Walking Dead/Frank Darabont/AMC/Serie/
+Sons of Anarchy/Kurt Sutter/Fox/Serie/
+Os Simpsons/Matt Groening/Fox/Serie/
+Rick and Morty/Dan Harmon/Adult Swim/Serie/
+Narcos/Chris Brancato/Netflix/Serie/
+Black Mirror/Charlie Brooker/Endemol UK/Serie/
+
+
+
