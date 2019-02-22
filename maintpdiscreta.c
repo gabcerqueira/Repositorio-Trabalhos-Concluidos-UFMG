@@ -1,5 +1,5 @@
 //Trabalho Disciplina Matemática Discreta, espiral quadrada
-//No caso é o programa retorna as coordenadas de um certo ponto da espiral
+//No caso o programa retorna as coordenadas de um certo ponto da espiral
 
 
 
