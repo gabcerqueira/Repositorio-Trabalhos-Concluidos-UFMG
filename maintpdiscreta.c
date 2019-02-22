@@ -1,3 +1,9 @@
+//Trabalho Disciplina Matemática Discreta, espiral quadrada
+//No caso é o programa retorna as coordenadas de um certo ponto da espiral
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
