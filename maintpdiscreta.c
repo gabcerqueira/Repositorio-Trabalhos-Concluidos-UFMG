@@ -1,5 +1,5 @@
 //Trabalho Disciplina Matemática Discreta, espiral quadrada
-//No caso o programa retorna as coordenadas de um certo ponto da espiral
+//No caso, o programa retorna as coordenadas de um certo ponto da espiral
 
 
 
@@ -58,13 +58,6 @@ bool cont2=0;//assume valor de 1 para cont1==contmax , para permitir a entrada d
 				n1.x=n1.x + n1.dx;
 				n1.y=n1.y + n1.dy;
 
-				/*
-				if(n==0){
-					
-					n1.x=0;
-					n1.y=0;
-				}
-				*/
 				if(cont1==contmax){
 
 					cont1=1;
